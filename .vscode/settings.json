@@ -1,0 +1,7 @@
+{
+    "todo-tree.filtering.scopes": [
+    ],
+    "todo-tree.filtering.excludeGlobs":[
+        "**/vendor/**"
+    ]
+}
